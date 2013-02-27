@@ -1,0 +1,4 @@
+TrashCan
+========
+
+Waste goes here.
